@@ -1,0 +1,28 @@
+Dilkhush Raj
+dilkhushraj@nitmanipur.ac.in | +91-9534899632 | linkedin.com/in/dilkhush-raj | github.com/Dilkhush144
+Imphal, India
+
+EDUCATION
+National Institute of Technology, Manipur (NIT Manipur)
+B.Tech in Electronics and Communication Engineering | CGPA: 8.0 | Aug 2023 - May 2027
+
+TECHNICAL SKILLS
+Languages: Python, C++, C, JavaScript, SQL, HTML, CSS
+Frameworks & Libraries: React.js, Node.js, Express, Tailwind CSS, OpenCV
+Developer Tools: Git, GitHub, Docker, Linux, VS Code, Postman
+Concepts: Data Structures & Algorithms, Object-Oriented Programming (OOP), RESTful APIs
+
+EXPERIENCE & PROJECTS
+Job Application Tracker Dashboard | React.js, Vite, Tailwind CSS, LocalStorage
+- Developed a high-performance single-page web application to track and analyze job applications across multi-stage hiring pipelines.
+- Implemented real-time search, multi-condition filtering, and responsive data analytics dashboards with Recharts.
+- Reduced data management overhead by 60% with instant client-side persistence and zero-backend LocalStorage architecture.
+
+AI Resume Analyzer & ATS Fit Engine | Python, Streamlit, Sentence-Transformers, NLP
+- Built an intelligent NLP-powered resume analyzer comparing resume content against job descriptions using dense vector embeddings.
+- Integrated sentence-transformers (all-MiniLM-L6-v2) and cosine similarity to calculate fit scores and identify technical skill gaps in <1.2 seconds.
+- Designed comprehensive ATS hygiene heuristics scanning for section completeness, contact links, metrics, and bullet verb strengths.
+
+Single Click Assistant for Paralyzed Patients | Python, OpenCV, MediaPipe, Raspberry Pi
+- Engineered an assistive computer vision system tracking real-time eye-blink gestures to enable hands-free computer navigation.
+- Optimized facial landmark processing pipeline achieving 30 FPS inference on edge hardware with low latency.

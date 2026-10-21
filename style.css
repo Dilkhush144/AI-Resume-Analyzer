@@ -1,0 +1,87 @@
+/* Modern Dark Theme Custom CSS for AI Resume Analyzer */
+/* Author: Dilkhush Raj */
+
+/* Root variables */
+:root {
+  --primary-accent: #00BFFF;
+  --primary-gradient: linear-gradient(135deg, #00BFFF 0%, #0077B6 100%);
+  --card-bg: #161B22;
+  --card-border: rgba(255, 255, 255, 0.08);
+  --text-main: #E6EDF3;
+  --text-muted: #8B949E;
+}
+
+/* Overall page padding */
+.block-container {
+  padding-top: 2rem !important;
+  padding-bottom: 3rem !important;
+  max-width: 1080px !important;
+}
+
+/* Metric / Stat box styling */
+div[data-testid="stMetricValue"] {
+  font-size: 2.2rem !important;
+  font-weight: 800 !important;
+  color: #00BFFF !important;
+}
+
+/* Button styling */
+button[kind="primary"] {
+  background: var(--primary-gradient) !important;
+  border: none !important;
+  border-radius: 10px !important;
+  font-weight: 700 !important;
+  letter-spacing: 0.3px !important;
+  padding: 0.65rem 1.4rem !important;
+  transition: all 0.2s ease-in-out !important;
+  box-shadow: 0 4px 14px rgba(0, 191, 255, 0.25) !important;
+}
+
+button[kind="primary"]:hover {
+  transform: translateY(-2px) !important;
+  box-shadow: 0 6px 20px rgba(0, 191, 255, 0.4) !important;
+}
+
+/* Sidebar styling */
+section[data-testid="stSidebar"] {
+  background-color: #0d1117 !important;
+  border-right: 1px solid rgba(255, 255, 255, 0.08) !important;
+}
+
+/* Skill badges */
+.skill-tag {
+  display: inline-block;
+  padding: 4px 10px;
+  border-radius: 12px;
+  font-size: 0.85rem;
+  font-weight: 600;
+  margin: 3px 4px;
+}
+
+.skill-matched {
+  background-color: rgba(46, 160, 67, 0.2);
+  color: #3fb950;
+  border: 1px solid rgba(46, 160, 67, 0.4);
+}
+
+.skill-missing {
+  background-color: rgba(248, 81, 73, 0.15);
+  color: #ff7b72;
+  border: 1px solid rgba(248, 81, 73, 0.35);
+}
+
+.skill-general {
+  background-color: rgba(56, 139, 253, 0.15);
+  color: #58a6ff;
+  border: 1px solid rgba(56, 139, 253, 0.3);
+}
+
+/* Card container helper */
+.card-wrapper {
+  background-color: #161B22;
+  border: 1px solid rgba(255, 255, 255, 0.08);
+  border-radius: 12px;
+  padding: 1.25rem;
+  margin-bottom: 1.25rem;
+  box-shadow: 0 4px 12px rgba(0, 0, 0, 0.25);
+}
