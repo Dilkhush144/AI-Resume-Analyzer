@@ -16,10 +16,10 @@
 
 ## 🌐 Live Interactive Demo
 
-[![Deploy to Streamlit](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://share.streamlit.io/deploy?repository=Dilkhush144/AI-Resume-Analyzer&branch=main&mainModule=app.py)
+[![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://dilkhush144-ai-resume-analyzer.streamlit.app)
 
-🚀 **[Click here to Launch / Deploy Live Demo on Streamlit](https://share.streamlit.io/deploy?repository=Dilkhush144/AI-Resume-Analyzer&branch=main&mainModule=app.py)**  
-*Public App URL (once deployed): `https://dilkhush144-ai-resume-analyzer.streamlit.app`*
+🚀 **[👉 Click here to Open the Live App](https://dilkhush144-ai-resume-analyzer.streamlit.app)**  
+*Live Application URL: [https://dilkhush144-ai-resume-analyzer.streamlit.app](https://dilkhush144-ai-resume-analyzer.streamlit.app)*
 
 > ✨ **Quick Demo Test**: The app includes a built-in **"Load Sample SWE Intern Demo"** button so recruiters and visitors can test the analysis in 1 click without needing to upload a resume file!
 
